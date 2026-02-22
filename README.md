@@ -112,7 +112,7 @@ http://127.0.0.1:5000
 
 -Maitri Srivastava
 -Kavya Trivedi
--Surydeep CHoudhury
+-Surydeep Choudhury
 -Rahul Kumar Pathak
 
 
