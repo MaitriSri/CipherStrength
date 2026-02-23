@@ -120,6 +120,7 @@ http://127.0.0.1:5000
 ## 📷 Demo
 
 <img width="875" height="471" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/15c8286b-c827-4054-9235-51fb2a56b282" />
+https://photos.app.goo.gl/jSjJxAMKvZN9DDyQ6
 
 
 
